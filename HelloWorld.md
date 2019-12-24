@@ -1,6 +1,6 @@
 ---
 title: "HelloWorld.md"
-author: "Laura Tensen"
+author: "Meet Bhatnagar"
 date: "24-12-2019"
 output: pdf_document
 ---
